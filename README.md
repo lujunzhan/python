@@ -1,5 +1,6 @@
-# project1 python spidercrawl
-一个简单的爬虫小尝试
+# python
+
+＃project1 spidercrawl
 
 爬取的网站为爬虫入门练习网站:http://books.toscrape.com/
 
