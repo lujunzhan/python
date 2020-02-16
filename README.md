@@ -1,4 +1,4 @@
-# python-crawlerspider
+# project1 python spidercrawl
 一个简单的爬虫小尝试
 
 爬取的网站为爬虫入门练习网站:http://books.toscrape.com/
@@ -9,3 +9,5 @@
 
 但是是一个比较完整的简单爬虫
  
+＃project2  python Star War
+简单的外星人入侵项目
