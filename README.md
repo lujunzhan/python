@@ -1,6 +1,6 @@
 # python
 
-＃project1 spidercrawl
+## books_spider
 
 爬取的网站为爬虫入门练习网站:http://books.toscrape.com/
 
@@ -10,5 +10,11 @@
 
 但是是一个比较完整的简单爬虫
  
-＃project2  python Star War
-简单的外星人入侵项目
+## python Star War
+简单的外星人入侵项目(Alien invade)
+
+## douban_data_spider
+爬取豆瓣top250
+
+## douban_img_spider
+爬取豆瓣top250电影封面
